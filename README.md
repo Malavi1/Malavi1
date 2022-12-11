@@ -2,7 +2,8 @@
 
 <img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
 <h1 align="center">Hi 👋, I'm Malavi Pande</h1>
-<h3 align="center">Passtionate python programmer,also working in the learning stage of frontend</h3>
+<h3 align="center">Passtionate PYTHON Programmer,Also In The learning Stage Of Frontend 
+  Trying To Increse My progress Every Single Day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malavi1&label=Profile%20views&color=0e75b6&style=flat" alt="malavi1" /> </p>
 
