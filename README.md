@@ -32,12 +32,25 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.malavi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.malavi1" height="30" width="40" /></a>
+  
 <a href="https://twitter.com/malavipande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malavipande" height="30" width="40" /></a>
+  
+  
 <a href="https://linkedin.com/in/malavipande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malavipande" height="30" width="40" /></a>
+  
+  
 <a href="https://hashnode.com/@malavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@malavi" height="30" width="40" /></a>
+  
+  
 <a href="https://www.youtube.com/c/malavipande@6683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="malavipande@6683" height="30" width="40" /></a>
+  
+  
 <a href="https://www.hackerrank.com/pandemalavi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandemalavi18" height="30" width="40" /></a>
+  
+  
 <a href="https://www.leetcode.com/malavipande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="malavipande" height="30" width="40" /></a>
+  
+  
 <a href="https://discord.gg/malavi#4840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="malavi#4840" height="30" width="40" /></a>
 </p>
 
